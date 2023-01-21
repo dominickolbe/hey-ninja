@@ -1,3 +1,7 @@
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dominickolbe/hey-ninja/tests.yml?label=tests&style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dominickolbe/hey-ninja/release.yml?label=release&style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/dominickolbe/hey-ninja?style=for-the-badge)
+
 <div align="center">
 
   <h3 align="center">Hey Ninja!</h3>
