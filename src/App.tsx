@@ -1,20 +1,8 @@
 import React from "react";
-import logo from "./logo.png";
-import "./App.css";
+import Example from "./components/example";
 
 function App() {
-  return (
-    <div className="app">
-      <header className="app-header">
-        <img
-          src={logo}
-          className="app-logo"
-          alt="logo"
-          data-testid="app-logo"
-        />
-      </header>
-    </div>
-  );
+  return <Example />;
 }
 
 export default App;
