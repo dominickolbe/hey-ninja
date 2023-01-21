@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.1](https://github.com/dominickolbe/hey-ninja/compare/v0.0.0...v0.0.1) (2023-01-21)
+
+
+### Features
+
+* add github action - code test ([a27c3b4](https://github.com/dominickolbe/hey-ninja/commit/a27c3b47b0582f699aaa7aa421690dd35c33353c))
+* add github action release ([cef278b](https://github.com/dominickolbe/hey-ninja/commit/cef278b02aa2c0d3ee7fb01516e8bdc8398c2c00))
+
+
+### Bug Fixes
+
+* .prettierignore ([34b536a](https://github.com/dominickolbe/hey-ninja/commit/34b536af036053f952fc832db38ef685a70e3109))
+* update github action ([5115ab5](https://github.com/dominickolbe/hey-ninja/commit/5115ab5fc1ce0de1e44f8adc8e7b5721128e0b6e))
+
+
+### Documentation
+
+* README add github badges ([f446b95](https://github.com/dominickolbe/hey-ninja/commit/f446b9526f15ca361bf7a2e8e579023ea7ace904))
+
 ## 0.0.0 (2023-01-21)
 
 
