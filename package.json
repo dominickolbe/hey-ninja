@@ -28,7 +28,7 @@
     "@testing-library/user-event": "14.4.3",
     "@types/jest": "29.4.0",
     "@types/node": "18.11.18",
-    "@types/react": "18.0.27",
+    "@types/react": "18.0.33",
     "@types/react-dom": "18.0.10",
     "prettier": "2.8.3",
     "standard-version": "9.5.0",
