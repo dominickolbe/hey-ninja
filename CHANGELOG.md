@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/dominickolbe/hey-ninja/compare/v0.0.2...v0.0.3) (2023-04-20)
+
+
+### Chores
+
+* update dependencies ([fa8980d](https://github.com/dominickolbe/hey-ninja/commit/fa8980d00f7b5d23633370c6ea0c0d6b047cec1b))
+
 ### [0.0.2](https://github.com/dominickolbe/hey-ninja/compare/v0.0.1...v0.0.2) (2023-01-27)
 
 
