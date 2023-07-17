@@ -1,10 +1,12 @@
 import React from "react";
 import logo from "./logo.png";
 import "./App.css";
+import { EncodeURI } from "./components/encodeURI";
 
 function App() {
   return (
     <div className="app">
+      <EncodeURI/>
       <header className="app-header">
         <img
           src={logo}
@@ -13,6 +15,7 @@ function App() {
           data-testid="app-logo"
         />
       </header>
+      
     </div>
   );
 }
